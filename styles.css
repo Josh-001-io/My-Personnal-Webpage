@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    background-color: rgb(255, 0, 21);
+    text-align: center;
+    padding: 20px;
+}
+
+img {
+    max-width: 200px;
+    border-radius: 50%;
+    margin: 20px 0;
+}
+
